@@ -1,0 +1,102 @@
+
+.carousel-item{
+    height: 100vh;
+}
+.carousel-item h1{
+  color:azure;
+  background-color:rgba(64, 64,64, 0.5)	;
+}
+
+body{
+    background-color:black;
+    background-position: center center;
+    background-repeat: no-repeat;
+    color:darkslategrey;
+    font-family: Verdana, Tahoma, sans-serif;
+    
+}
+
+#contenido .row .introduction{
+    background-color: #a6a093;
+}
+.container-fluid2{
+    height: 50px;
+    text-align: center;
+    font-size: 40px;
+    color: whitesmoke;
+}
+#contenido h4{
+    text-align: center;
+}
+#contenido .row{
+    height: 150px;
+    text-align: center;
+}
+#contenido .art1{
+    height: 500px;
+    background-color: #bee3be;
+}
+#contenido .art1 .row{
+    text-align: justify;
+}
+#contenido .row .art1 .container{
+    text-align: justify;
+}
+#contenido .art1 .container .container .row .col-6 h2{
+text-align: center;
+margin-top: 50px;
+}
+#contenido .art1 .container .container .row .col-6 .card{
+  background-color:#80a680;
+  text-align: center;
+}
+#contenido .art1 .container .container .row .col-6 .card .btn{
+    background-color: #00CC00;
+    border-color: #00CC00;
+    color:whitesmoke;
+       
+}
+#contenido .art2{
+    height: 500px;
+    background-color: #aeaac4;
+}
+#contenido .art2 .container .container .row .col-6{
+    text-align: justify;
+}
+#contenido .art2 .container .container .row .col-6 h2{
+    text-align: center;
+    margin-top: 60px;
+}
+#contenido .art2 .container .container .row .col-6 .card{
+    text-align: center;
+    background-color: #8580a6;
+}
+#contenido .art2 .container .container .row .col-6 .card .btn{
+    background-color: #9933ff;
+    border-color: #9933ff;
+    color:whitesmoke;
+}
+footer{
+  color: #eee;
+  height: 150px;
+  background: #6b604b;
+  margin: 0px auto;
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 0px;
+  line-height: 35px;
+  text-align: center;
+
+}
+
+#contenido h2{
+    font-size: 30pt;
+    
+}
+#contenido h4{
+    font-size: 15pt;
+}
+#contenido .row .introduction h4{
+    font-size: 22pt;
+}
